@@ -11,4 +11,4 @@ You can use this page as a directory for my important repositories and their des
  \- Tech used was AWS EC2, Apache, Java, JavaScript, and MongoDb!
  
  >[Dungeon Crawler](https://github.com/Reglius/DungeonCrawler): As a project for my Game Development class, I made a 2D dungeon crawler, please play it!.
- \- This was made with html and a whole lotta JavaScript!
+ \- This was made with HTML and a whole lotta JavaScript!
