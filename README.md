@@ -1,4 +1,4 @@
-Hi, I am Daniel Cook but my I use a screen for my github @Reglius.
+Hi, I am Daniel Cook. I use a screen name for my github, @Reglius.
 
 Currently I am in graduate school at UNOmaha, studying Economics with a concentration in Econometrics and Data Analytics!
 
