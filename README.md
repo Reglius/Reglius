@@ -10,5 +10,5 @@ You can use this page as a directory for my important repositories and their des
 >[Zoom Planner](https://github.com/Reglius/localhosts): During my software development class we had a group project that created a calander planner for zoom since they dont have a good one.
  \- Tech used was AWS EC2, Apache, Java, JavaScript, and MongoDb!
  
- >[Dungeon Crawler](https://github.com/Reglius/DungeonCrawler1): As a project for my Game Development class, I made a 2D dungeon crawler, please play it!.
+ >[Dungeon Crawler](https://github.com/Reglius/DungeonCrawler1): As a project for my Game Development class, I made a 2D dungeon crawler, please play it!
  \- This was made with HTML and a whole lotta JavaScript!
