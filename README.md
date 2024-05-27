@@ -4,6 +4,9 @@ I am a graduate of UNOmaha, having studied Economics with a concentration in Eco
 
 You can use this page as a directory for my important repositories and their descriptions along with the technology used to create them.
 
+>[Options Trading]([https://github.com/Reglius/LocationChecker](https://github.com/Reglius/Stocks)): Hoping to beat the stock market with this one, high hopes for it.
+ \- Used Python and Trading APIs for my analysis.
+
 >[Location Checker](https://github.com/Reglius/LocationChecker): This is a data collection project for how many stores a company has in America.
  \- I used Java (with threading!), Gradle, and Google Maps's API for data collection.
 
