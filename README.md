@@ -1,6 +1,6 @@
 Hi, I am Daniel Cook. I use a screen name for my github, @Reglius.
 
-Currently I am in graduate school at UNOmaha, studying Economics with a concentration in Econometrics and Data Analytics!
+I am a graduate of UNOmaha, having studied Economics with a concentration in Econometrics and Data Analytics in my Graduate Program and Computer Science in my Undergrad!
 
 You can use this page as a directory for my important repositories and their descriptions along with the technology used to create them.
 
