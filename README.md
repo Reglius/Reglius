@@ -4,8 +4,12 @@ I am a graduate of UNOmaha, having studied Economics with a concentration in Eco
 
 You can use this page as a directory for my important repositories and their descriptions along with the technology used to create them.
 
->[Options Trading](https://github.com/Reglius/Stocks): Hoping to beat the stock market with this one, high hopes for it.
- \- Used Python and Trading APIs for my analysis.
+>[Stock Trading](https://github.com/Reglius/StocksML): Hoping to beat the stock market with this one, high hopes for it.
+ \- Used Python yFinance, and Random Forests for my analysis.
+
+>[Options Trading](https://github.com/Reglius/OptionsWeeklies): Utilized Fastai and PyTorch to predict stock pricing.
+ \- Conducted Monte Carlo simulations integrating GARCH for stock movement.
+ \- Implemented a Geometric Brownian Motion Theory to predict future option prices.
 
 >[Location Checker](https://github.com/Reglius/LocationChecker): This is a data collection project for how many stores a company has in America.
  \- I used Java (with threading!), Gradle, and Google Maps's API for data collection.
