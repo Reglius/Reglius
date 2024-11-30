@@ -22,6 +22,6 @@ You can use this page as a directory for my important repositories and their des
  
  Below are two of my best papers I wrote in my undergraduate program.
  
- >[Java Concurrency](https://dcnelabs.io/DanielCookISNT.pdf): This paper is a technical report on the benifits of concurrency in programming. This is a high concept level paper written for nontech savvy readers.
+ >[Java Concurrency](https://drive.google.com/file/d/1gqCID0PdCf8weSP8zSXfNGyY1UH8XjSm/view?usp=sharing): This paper is a technical report on the benifits of concurrency in programming. This is a high concept level paper written for nontech savvy readers.
 
- >[Optimization Report](https://dcnelabs.io/DanielCookDetOps.pdf): The second paper is a report on the mathematical formulation of optimizing a toy factory production schedule. The math behind the process can be applied to any process in the real world that can be optimized.
+ >[Optimization Report](https://drive.google.com/file/d/1WH84ozJ1HART6s194svJE3TE5STyHSdv/view?usp=sharing): The second paper is a report on the mathematical formulation of optimizing a toy factory production schedule. The math behind the process can be applied to any process in the real world that can be optimized.
